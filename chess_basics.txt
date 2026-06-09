@@ -1,0 +1,278 @@
+Chess is one of the oldest board games in the world, and also one of the most popular. 
+Whether you want to learn chess to play casual games with your friends or to enter competitions, in this article you can learn all the information you need to know about the royal game.
+
+Chess is a board game played between two players that simulates a war between two kingdoms. 
+It is one of the most popular games in the world. 
+Millions of people play it both recreationally and competitively.
+
+Chess is a turn-based strategy game with no hidden information. 
+For this reason, the element of luck is virtually non-existent in the game.
+
+Chess is a complex game with many pieces and rules. 
+
+To play chess, players need at least a set of chess pieces and a chessboard. 
+A chess clock is also necessary if players decide to play a timed game, and players often use a score sheet to record their moves.
+
+A chess piece set has two different armies of pieces, each containing eight pawns, two knights, two bishops, two rooks, a queen, and a king. 
+Players can distinguish their armies based on their colors, with light and dark pieces. 
+Regardless of the actual color of the pieces, the light side is called White, while the dark side is called Black—reminiscent of the ivory and ebony pieces used in the past.
+
+The chessboard has 64 squares organized in an eight-by-eight grid. 
+The board is checkered with dark and light squares. 
+The board is divided into ranks (rows) and files (columns).
+
+The chessboard has 64 squares arranged in an eight-by-eight grid of dark and light squares. 
+Rows are called ranks, and columns are called files.
+Chess clocks are tools that can mark the remaining time each player has. 
+They can also add extra time for each player after they make a move (called increments).
+
+
+There are six types of chess pieces. 
+They are the pawn, the knight, the bishop, the rook, the queen, and the king. 
+Each of those pieces moves differently and has a distinct value.
+
+
+Pawns are worth one point and are not considered a piece. 
+Knights and bishops are worth three points, although masters and computers think bishops are generally worth a little more than a knight. 
+Knights and bishops comprise the minor pieces.
+
+Rooks are worth five points, while the queen is worth nine. 
+The rook and queen are the major pieces. 
+The king is the most valuable piece in chess—"losing" the king implies losing the game.
+
+Note that the value of pieces is only an abstract concept and doesn't determine the game's outcome. 
+A player can be up a lot of material but lose the game if their opponent checkmates them.
+
+It's essential to learn the initial setup of the board and pieces to start a chess game. 
+The board must have a light square as its bottom-right square.
+
+The bottom-right square must be light.
+As stated in the previous section, both players start with eight pawns, two knights, two bishops, two rooks, a queen, and a king. 
+The white pawns go on the second rank of the board, while the black pawns go on the seventh.
+
+Pawns start on the second and seventh ranks.
+The rooks, knights, and bishops start filling up the first rank for White and eighth for Black from the outside in. 
+The queen and king finish the setup, with the queen always going on the square that matches its color (the white queen on a light square, the black queen on a dark square).
+
+Each of the pieces in chess has a distinctive movement.
+
+Pawns move up the board one square unless it's the first time they're moving when they may move two squares. 
+Note that they cannot move backward.
+
+The pawn captures pieces one square diagonally and is the only chess piece that captures differently than the way it moves. 
+It is also the only piece that can capture using the special en passant rule, discussed below.
+
+Pawns can move up the board one square or two on their first move. 
+They capture one square diagonally to either side.
+
+
+The knight moves two squares horizontally and one vertically, or two squares vertically and one horizontally. 
+The way the knight moves resembles the upper-case "L."
+
+Knights capture by landing on top of a piece and are the only pieces that can jump over others.
+
+Knights move in an "L" shape and can jump over other pieces.
+
+
+The bishop can move any number of squares diagonally. 
+Because of how it moves, the bishop can never step on squares of another color than the one it started on. 
+Players start the game with two bishops, a light-squared and a dark-squared one.
+
+Bishops move diagonally.
+
+The rook can move any number of squares vertically or horizontally. 
+Rooks are also the only piece that, together with the king, can castle (discussed below).
+
+Unless blocked, rooks can move horizontally or vertically as many squares as they want.
+
+The queen is the most powerful piece on the board. 
+It can move diagonally, horizontally, or vertically as many squares as it wants (unless another piece blocks it).
+
+Queens can move in all directions as many squares as they want.
+
+The king can move one square in every direction. 
+As stated above, the king can make use of the special castling rule together with a rook.
+
+Kings move one square in any direction.
+
+
+When a player's king is under the attack of an enemy piece, the king is in check. 
+The player whose king is under attack needs to protect the king with one of their pieces, move the king out of the attacker's range, or capture the piece attacking their king. 
+If the attacked player can't do any of those, the king is in checkmate (also shortened as "mate") and they lose the game.
+
+Checkmating the opponent is the ultimate goal of chess.
+
+Chess has three special rules that apply only in specific situations.
+
+Players can castle to protect their king and develop a rook simultaneously. 
+When a player castles, their king moves two squares to either side, and the rook from that side jumps over the king, landing next to it.
+
+Castling kingside is also referred to as "castled short".
+Castling queenside is also referred to as "castled long".
+
+A player can only castle if all of the conditions below are true:
+
+The player has never moved the king or the rook.
+There are no pieces between the king and the rook to the side where the player is castling.
+The king is not in check.
+The opponent is not attacking any of the squares between the king and where it'll land.
+
+When pawns reach the rank farthest from the one where they've started, they can promote into any minor or major piece. 
+White's pawns promote when they reach the eighth rank, while Black promotes on the first.
+
+Pawns can turn into any piece except for the king.
+Pawns can promote to any piece, regardless of how many or which other pieces are still on the board.
+
+The en passant is the most discombobulating rule in chess for a beginner player. 
+It's a special type of rule that allows pawns to capture other pawns in the following conditions:
+
+The capturing pawn is three ranks away from the rank where it started the game.
+An enemy pawn on an adjacent file moves forward two squares in one move, landing right next to the capturing pawn.
+The en passant capture happens on the turn immediately after the one when the pawn being captured lands next to the capturing pawn.
+If all of the conditions are true, the attacking player can choose to make the en passant capture. 
+The attacking pawn moves one square diagonally, landing one square ahead of the captured pawn.
+
+The en passant rule is the only capture where the capturing piece doesn't land on the same square as the captured one.
+
+In chess, a player can either win, lose, or draw a game. 
+A player can win by checkmating the opponent or if the other player lets their time run out, or "flag." 
+Conversely, a player loses if their opponent checkmates their king or if they let their clock run out.
+
+The game can end in a draw in several different ways. 
+Those include draws by mutual agreement between players, threefold repetition, dead position, 50-move rule, or stalemate.
+
+
+Recreational, over-the-board (OTB) chess games can have no time limit, especially among beginners. 
+However, competitive chess always uses time restraints for each player to limit the game's duration.
+
+Games receive different classifications according to the time control they have. 
+Classical games have longer time controls, with each player usually having more than one hour to play their moves. 
+These longer time controls are more common for OTB play.
+
+Rapid time controls are those where each player gets at least 10 minutes to play their moves.
+Blitz games are those with at least three minutes for each player, while bullet games are the ones with two minutes or less. 
+Rapid, blitz, and bullet games are widely popular online, with blitz being the most played time control on Chess.com. 
+
+
+Time controls can also have increments or delays. 
+An increment is any amount of time added to the player's clock after they make a move. 
+Delays, on the other hand, are not added to the player's clock. 
+Instead, a delay is the amount of time a player has to make a move before the countdown begins on their clock after their turn starts.
+
+Besides the time controls mentioned above, there is also the possibility of games extending to more than a single day. 
+In correspondence or daily chess, each player has at least a day to play each move.
+
+Chess notation is a way of recording or describing the moves of a chess game. 
+Although there are different techniques of achieving that, the official way to record them today is through algebraic notation. 
+This kind of notation shows you the move number, the piece being moved, and the square where it lands.
+
+In algebraic notation, every square of the board has a name. 
+The name consists of a letter that identifies the file, followed by a number that identifies the rank.
+
+Every square on the chessboard has a name that consists of a letter representing the file and a number representing the rank.
+Each of the pieces is abbreviated by a capital letter: "K" for the king, "Q" for the queen, "R" for rook, "B" for the bishop, and "N" for the knight. 
+Pawns are not pieces and, therefore, don't have an abbreviation.
+
+Captures are represented by the letter x, while castling short is represented by 0-0 and castling long is 0-0-0. 
+1-0 illustrates that White won the game, 0-1 means Black won, and 1/2-1/2 indicates a draw.
+
+Chess federations are the regulatory bodies that oversee and take care of all the official matters related to chess.
+
+FIDE is the International Chess Federation and is the governing body of all matters related to chess globally. 
+They are the organization that organizes the most important chess events, such as the Candidates Tournament and the World Chess Championship. 
+They are also the ones who award chess titles and oversee players' international ratings.
+
+
+Many countries also have their own federations, such as the US Chess in the United States or the Chess Federation of Russia. 
+National federations take care of chess matters inside their countries, like organizing national events and overseeing national ratings. 
+Some national federations also give out national titles (not recognized by FIDE).
+
+
+Chess ratings represent the relative strength of a player compared to others who play in the same group. 
+FIDE chose the Elo rating system to determine players' international ratings. 
+However, national federations can adopt different systems, such as the English Federation's ECF grading system.
+
+The Glicko rating system is the one usually adopted in online chess. 
+It works similarly to the Elo rating system, but it considers more variants in its calculations.
+
+Chess titles are recognitions given by chess federations to players who achieve excellence in chess. 
+The recognitions are based on the players' skill, performance, and rank.
+
+FIDE awards the open international titles of candidate master, FIDE master, international master, and grandmaster. 
+They also grant the women-exclusive titles of woman candidate master, woman FIDE master, woman international master, and woman grandmaster.
+
+The top players in the world are all grandmasters.
+National federations can also have their own titles, which are valid in only their national territory. 
+An example is US Chess' national master and life master titles.
+
+Chess is an organized competitive sport with numerous national and international competitions happening every year. 
+With thousands of events happening worldwide, there are competitions for players of all levels. 
+The most prestigious competition is the World Chess Championship, a match between the current world champion and a challenger.
+
+Similar to OTB chess, online chess also features multiple competitions every year.
+
+Competitions are usually in the round-robin, knockout, or Swiss format. 
+Arenas are also common in online competitions.
+
+With such an extensive history and enormous popularity, it's only natural that masters have studied the game in-depth throughout the ages. 
+Chess theory is the body of knowledge accumulated over the history of the game. 
+It usually divides the game into three stages: the opening, the middlegame, and the endgame.
+
+Opening theory embodies the first few moves of a game. 
+The theory states that players should strive to control the center, develop their pieces to good squares, and keep their kings safe. 
+Masters have studied specific openings with thoroughly analyzed lines and variations. 
+Some of the most widely played openings are the Sicilian Defense and the Ruy Lopez, although many others exist and enjoy vast popularity.
+
+After the opening, the game enters the middlegame. 
+Middlegame theory involves strategical and positional concepts like good or bad bishops, pawn structures, piece maneuvering, overprotection, space, etc.
+
+
+The endgame starts when most of the pieces have left the board. 
+Some authors consider the endgame to start whenever players trade their queens. 
+Either way, endgame theory involves concepts like pawn promotions, opposition, triangulation, fortresses, etc.
+
+Tactics are forcing moves a player makes to take advantage of the position for an immediate gain, such as winning material or checkmating. 
+A player can study many tactical motifs to improve their game, but the basic ones are discovered attacks, pins, skewers, and forks.
+
+
+There is no definite evidence of when exactly chess first appeared. 
+However, historians tend to agree that chess evolved from earlier Indian board games, likely chaturanga. 
+The ancient Indian game shared two characteristics present in all later variants: a different power for each piece and the fact that the fate of the king determines the outcome of the game.
+
+Chaturanga later evolved into shatranj during the seventh century. 
+Shatranj spread to the East, North, and West, gaining different characteristics along the way. 
+After reaching Europe, the game slowly evolved into what we know today as standard chess.
+
+From the 1800s forward, chess matches between two players to determine the world champion grew in popularity. 
+The first official champion came in 1886 when Wilhelm Steinitz defeated Johannes Zukertort. 
+FIDE started organizing the World Chess Championship in 1948, with GM Mikhail Botvinnik winning the title.
+
+From 1948 until 1993, FIDE continued organizing the World Chess Championship. 
+The champions from that period were, besides Botvinnik, GMs Vasily Smyslov, Mikhail Tal, Tigran Petrosian, Boris Spassky, Bobby Fischer, Anatoly Karpov, and Garry Kasparov.
+
+In 1993, reigning world champion Kasparov had disagreements with FIDE and created another international chess organization, the Professional Chess Association (PCA), with GM Nigel Short. 
+From 1993, there were two titles for world champion, one for PCA and another for FIDE. 
+PCA champions included Kasparov and GM Vladimir Kramnik. 
+The title reunited in 2006, with Kramnik defeating FIDE champion GM Veselin Topalov.
+
+Kramnik won the unified world championship title in 2006.
+From that moment on, FIDE has organized all World Chess Championship events. 
+Winners include GMs Viswanathan Anand and the 16th world champion Magnus Carlsen.
+
+The year 2020 saw a tremendous revolution in the world of chess. 
+Online chess grew to gigantic proportions, propelled by the COVID-19 pandemic and Netflix's miniseries The Queen's Gambit. 
+Chess made its mark in the esports world, with events like PogChamps 3 as the epitome of the game's participation in the streaming and content creation landscape.
+
+Chess variants are games that are derived from the standard version of chess. 
+These games can deviate from standard chess rules in many ways, such as using different boards, pieces, number of players, and more.
+
+Some of the most popular variants include Bughouse, where two players team up and play another team on two separate boards. 
+Pieces captured by one player can be used by the partner on their own game.
+
+Another popular variant is 4 Player Chess. 
+As the name implies, four players share the same board, which is extended to accommodate the extra players.
+
+4 Player Chess is a chess variant where four players share the same board.
+
+Chess players and enthusiasts can also create variants to address their perceived issues with standard chess. 
+A notable example is Chess960, created by Fischer to disrupt players' opening preparation, which Fischer felt was ruining chess.
