@@ -1,7 +1,10 @@
+import os 
+import re
 import gradio as gr
 from sentence_transformers import SentenceTransformer
 import torch
 from huggingface_hub import InferenceClient
+from groq import Groq
 
 with open("chess_basics.txt", "r", encoding = "utf-8") as file:
     chessText = file.read()
@@ -11,7 +14,8 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 def preprocessText(text):
     cleanedText = text.strip()
     chunks = cleanedText.strip("\n")
-    cleanedChunks = [chunk.strip() for chunk in chunks if chunk is not None]
+    # removes section headers from the chunks
+    cleanedChunks = [chunk.strip() for chunk in chunks if chunk.strip() and not chunk.strip().startswith("===")]
     return cleanedChunks
 
 def createEmbeddings(textChunks):
@@ -30,7 +34,7 @@ def getTopChunks(query, chunkEmbeddings, textChunks):
 cleanedChunks = preprocessText(chessText)
 chunkEmbeddings = createEmbeddings(cleanedChunks)
 
-client = InferenceClient("deepseek-ai/DeepSeek-R1") # spicy challenge
+client = Groq(api_key = os.environ.get("HF_TOKEN")) # spicy challenge
 
 def respond(message, history):
     messages = [{"role": "system", 
@@ -41,7 +45,8 @@ def respond(message, history):
                  "AI: You use Castling in order to better protect the King during early stages of the game, either by Castling king-side or queen-side. These are denoted with O-O and O-O-O respectively, letting you know how many squares the King crossed over. You must move your corresponding Bishop, Knight, and potentially the Queen in order to achieve this position."}]
     
     if history: 
-        messages.extend(history)
+        messages.extend([{"role": h["role"], "content": h["content"]} for h in history])
+        # helping groq to retain message history
 
     topResults = getTopChunks(message, chunkEmbeddings, cleanedChunks)
     context = "\n\n".join(topResults) # new line, slight deviation from kwk tutorial
@@ -54,15 +59,17 @@ def respond(message, history):
 
     response = "" # created new variable, slight deviation from kwk tutorial
     
-    responseStream = client.chat_completion(
-        messages, stream = True, max_tokens = 1024, temperature = 0.4
+    responseStream = client.chat.completions.create(
+        model = "qwen/qwen3.6-27b", messages = messages, stream = True, max_tokens = 1000, temperature = 0.4
     )
     
     for segment in responseStream:
         token = segment.choices[0].delta.content
         if token is not None:
             response += token
-            yield response
+
+    cleanResponse = re.sub(r"<think>.*?</think>", "", response, flags = re.DOTALL).strip()
+    yield response
        
         
 chatbot = gr.ChatInterface(respond, title = "Chess Tutor Bot ♟️", 
