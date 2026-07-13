@@ -1,0 +1,5 @@
+sentence_transformers
+gradio
+torch
+huggingface_hub
+groq
